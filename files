@@ -1,0 +1,3 @@
+4StepProjxionFoam.C
+
+EXE = $(FOAM_APPBIN)/4StepProjxionFoam
